@@ -2,7 +2,7 @@
 
 **Explore the roles shaping the growing AI industry.** This project researches new and evolving careers such as AI Forward Deployed Engineer, AI Engineer, AI Product Manager, and AI Safety & Evaluation specialist.
 
-🌐 **Website:** https://jeshanfahmad.github.io/is1117-portfolio/
+🌐 **Website:** https://jeshanfahmad.github.io/is117-portfolio/
 
 ## What you’ll find
 
@@ -13,8 +13,8 @@
 
 ## Browse the site
 
-- [Role library](https://jeshanfahmad.github.io/is1117-portfolio/roles/)
-- [Career guide](https://jeshanfahmad.github.io/is1117-portfolio/guide/)
+- [Role library](https://jeshanfahmad.github.io/is117-portfolio/roles/)
+- [Career guide](https://jeshanfahmad.github.io/is117-portfolio/guide/)
 
 ## Run locally
 
