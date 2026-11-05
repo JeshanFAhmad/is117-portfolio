@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: 'AI Career Atlas',
   description: 'Explore emerging careers and roles across the AI industry.',
-  base: '/is1117-portfolio/',
+  base: '/is117-portfolio/',
   cleanUrls: true,
   themeConfig: {
     nav: [
@@ -25,7 +25,7 @@ export default defineConfig({
         { text: 'Researching job posts', link: '/guide/job-research' }
       ] }]
     },
-    socialLinks: [{ icon: 'github', link: 'https://github.com/JeshanFAhmad/is1117-portfolio' }],
+    socialLinks: [{ icon: 'github', link: 'https://github.com/JeshanFAhmad/is117-portfolio' }],
     footer: { message: 'An evolving, student-friendly field guide to AI careers.', copyright: 'Built for learning and career exploration' }
   }
 })
