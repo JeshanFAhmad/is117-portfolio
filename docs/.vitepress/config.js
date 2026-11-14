@@ -22,7 +22,8 @@ export default defineConfig({
       '/guide/': [{ text: 'Career guide', items: [
         { text: 'Getting started', link: '/guide/' },
         { text: 'Skills & learning plan', link: '/guide/skills' },
-        { text: 'Researching job posts', link: '/guide/job-research' }
+        { text: 'Researching job posts', link: '/guide/job-research' },
+        { text: 'Portfolio plan', link: '/guide/portfolio-plan' }
       ] }]
     },
     socialLinks: [{ icon: 'github', link: 'https://github.com/JeshanFAhmad/is117-portfolio' }],
